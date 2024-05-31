@@ -1,0 +1,114 @@
+@import url("https://fonts.googleapis.com/css2?family=Courier+Prime:wght@400;700&display=swap");
+
+.body {
+  font-family: "Courier Prime", monospace;
+  /* border: 6px solid black !important; */
+}
+
+.heading {
+  font-size: 50px;
+  text-align: center;
+  color: #061283;
+  font-weight: 900;
+}
+
+.profil-image {
+  width: 25vw;
+  border-bottom: 6px solid black;
+  border-radius: 10%;
+  /* border-right: 6px dashed #061283; */
+}
+
+.element-center {
+  margin: auto;
+}
+
+.hero-font {
+  color: #061283;
+}
+
+.description {
+  width: 70%;
+  margin: auto;
+  text-align: center;
+}
+
+.yellow-background {
+  text-align: center !important;
+  /* margin-top: 20vh; */
+  /* border-radius: 100px 100px 50pc 50pc; */
+  background: #fccd22;
+  /* padding-top: 40px; */
+  border-right: 6px solid black;
+}
+
+/* PORTFOLIO CSS */
+
+.container {
+  width: 65vw;
+  margin: auto;
+  border: solid;
+}
+
+.display-flex {
+  display: flex;
+}
+
+.section-one {
+  width: 40%;
+  min-height: 90vh;
+  background-color: #061283;
+  padding: 45px;
+}
+.portfolio-img {
+  text-align: center;
+}
+.portfolio-img img {
+  width: 200px;
+  border-radius: 100%;
+}
+
+.text-main {
+  color: white;
+}
+.address-main {
+  color: white;
+}
+
+.icon {
+  width: 10px;
+}
+
+.skills-main {
+  margin-top: 70px;
+  color: white;
+}
+
+.section-two {
+  width: 60%;
+  min-height: 90vh;
+  padding: 45px;
+}
+
+.organitation {
+  margin: auto;
+  /* border: solid; */
+  /* text-align: center; */
+}
+
+.title {
+  background-color: lightblue;
+  padding: 10px 5px 10px 5px;
+}
+
+.icon-detail {
+  width: 30px;
+  margin-top: 15px;
+}
+.information {
+  padding: 5px;
+}
+
+.information div {
+  margin-bottom: 5px !important;
+}
